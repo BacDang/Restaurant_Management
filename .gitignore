@@ -1,0 +1,31 @@
+# NetBeans & Ant Build Artifacts
+build/
+dist/
+nbproject/private/
+
+# Compiled Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS Generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
